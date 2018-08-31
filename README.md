@@ -1,4 +1,4 @@
-![WombatDashbaord](https://github.com/wd-libraries/capacitive_moisture/blob/master/logo.jpg "WombatDashboard")
+![WombatDashboard](https://github.com/wd-libraries/capacitive_moisture/blob/master/logo.jpg "WombatDashboard")
 
 # ESP8266 + capacitive moisture sensors and relays for your connected, automated irrigation system
 
