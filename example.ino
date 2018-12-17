@@ -174,7 +174,7 @@ void setup(void) {
         Serial.println("SHA1 fingerprint doesn't match.");
         abort();
     }
-    client.setServer("mqtt.wombatdashboard.com", 1883);
+    client.setServer(MQTT_SERVER, MQTT_PORT);
     client.setCallback(callback);
     client.subscribe(DEVICE_PRIVATE_IDENTIFIER);
 
